@@ -10,5 +10,6 @@
 @interface HelloWorldLayer : CCLayer
 {
 }
+-(void) draw;
 
 @end
